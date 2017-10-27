@@ -213,7 +213,7 @@
       <workItem from="1508970365361" duration="625000" />
       <workItem from="1509032172746" duration="4023000" />
       <workItem from="1509049169474" duration="3000" />
-      <workItem from="1509063437383" duration="1805000" />
+      <workItem from="1509063437383" duration="1869000" />
     </task>
     <task id="LOCAL-00001" summary="final commit mongo db added">
       <created>1509064212220</created>
@@ -236,11 +236,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509066327149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final commit mongo db added">
+      <created>1509066394579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509066394579</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16773000" />
+    <option name="totallyTimeSpent" value="16837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="23" width="998" height="777" extended-state="0" />
