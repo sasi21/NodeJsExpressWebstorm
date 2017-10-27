@@ -7,7 +7,7 @@ var mongodb = require('mongodb');
 
 router.get('/mongodb', function (request, response) {
 
-    mongodb.MongoClient.connect('mongodb://heroku_82mvms7r:i9srgbo7q1dfeod09ue7fseg5q@ds235785.mlab.com:35785/heroku_82mvms7r', function(err, db) {
+    mongodb.MongoClient.connect(process.env.MONGODB_URI, function(err, db) {
         if(err) throw err;
         //get collection of routes
         var Routes = db.collection('Routes');
